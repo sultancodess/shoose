@@ -14,9 +14,6 @@ Foody is a modern and user-friendly landing page designed to showcase a meal del
 - CSS (for styling the page)
 - JavaScript (for any dynamic behavior)
 
-## Preview
-![Foody Landing Page](assets/Images/img-1.png)
-
 ## Getting Started
 To view or run this project locally, follow these steps:
 
