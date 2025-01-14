@@ -15,7 +15,7 @@ Foody is a modern and user-friendly landing page designed to showcase a meal del
 - JavaScript 
 
 ## Getting Started
-To view or run this project locally, follow these steps:
+To view or run this project locally, follow these steps
 
 1. Clone this repository:
    ```bash
